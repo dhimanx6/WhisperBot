@@ -31,8 +31,8 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ♥", url="https://t.me/about_Dhiman_x")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/W_O_D_X")],
     ]
 
     # Help Message
